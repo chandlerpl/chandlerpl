@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandlerpl)](https://github.com/chandlerpl/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandlerpl&count_private=true)](https://github.com/chandlerpl/github-readme-stats)
 <!--
 **chandlerpl/chandlerpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
