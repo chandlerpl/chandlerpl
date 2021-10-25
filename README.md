@@ -2,7 +2,7 @@
 
 ---
 
-<table border="none" cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" style="border: 0px solid #CCC; border-collapse: collapse;">
 <tbody>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=chandlerpl&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=9900cc&icon_color=9900cc&text_color=00a9bf" alt="Image" height="236" /></td>
