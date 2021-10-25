@@ -1,9 +1,19 @@
 ### Hi there 👋
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandlerpl&count_private=true&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&layout=compact&theme=cobalt)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chandlerpl&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<table>
+<thead>
+  <tr>
+    <th>https://github-readme-stats.vercel.app/api?username=chandlerpl&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true</th>
+    <th>https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&amp;layout=compact&amp;theme=tokyonight</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2">http://github-readme-streak-stats.herokuapp.com?user=chandlerpl&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D</td>
+  </tr>
+</tbody>
+</table>
 
 <!--
 **chandlerpl/chandlerpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
