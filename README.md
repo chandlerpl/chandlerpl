@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandlerpl&count_private=true&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&layout=compact&theme-cobalt)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&layout=compact&theme=cobalt)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chandlerpl&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **chandlerpl/chandlerpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
