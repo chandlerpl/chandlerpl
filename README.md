@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-<p><img width="99%" src="https://user-images.githubusercontent.com/1355437/138717144-a9ab1bd8-7ebf-4872-b15c-6be3d43ddc67.png" /></p>
+<!--<p><img width="99%" src="https://user-images.githubusercontent.com/1355437/138717144-a9ab1bd8-7ebf-4872-b15c-6be3d43ddc67.png" /></p>-->
 
 <table border="none" cellspacing="0" cellpadding="0">
 <tbody>
