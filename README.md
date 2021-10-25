@@ -2,7 +2,7 @@
 
 ---
 <table>
-<tbody>
+<tbody cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&layout=compact&theme=tokyonight&hide_border=true" alt="Image" height="236"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&layout=compact&theme=tokyonight&hide_border=true" alt="Image" height="236"></td>
