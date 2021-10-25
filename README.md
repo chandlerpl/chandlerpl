@@ -1,18 +1,11 @@
 ### Hi there 👋
 
 ---
-<table style="undefined;table-layout: fixed; width: 1126px">
-<colgroup>
-<col style="width: 616px">
-<col style="width: 510px">
-</colgroup>
+<table>
 <tbody>
   <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api?username=chandlerpl&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="Image" width="1110" height="437"></td>
-  </tr>
-  <tr>
-    <td><img src="http://github-readme-streak-stats.herokuapp.com/?user=chandlerpl&theme=tokyonight&hide_border=true" alt="Image" width="599" height="236"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&layout=compact&theme=tokyonight&hide_border=true" alt="Image" width="500" height="236"><br></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&layout=compact&theme=tokyonight&hide_border=true" alt="Image" height="236"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&layout=compact&theme=tokyonight" alt="Image" height="236"></td>
   </tr>
 </tbody>
 </table>
