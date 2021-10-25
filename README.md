@@ -4,13 +4,13 @@
 <table>
 <thead>
   <tr>
-    <th>https://github-readme-stats.vercel.app/api?username=chandlerpl&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true</th>
-    <th>https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&amp;layout=compact&amp;theme=tokyonight</th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=chandlerpl&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" \></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&amp;layout=compact&amp;theme=tokyonight" \></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td colspan="2">http://github-readme-streak-stats.herokuapp.com?user=chandlerpl&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D</td>
+    <td colspan="2"><img src="http://github-readme-streak-stats.herokuapp.com?user=chandlerpl&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" \></td>
   </tr>
 </tbody>
 </table>
