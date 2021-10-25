@@ -1,16 +1,18 @@
 ### Hi there 👋
 
 ---
-<table>
-<thead>
-  <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=chandlerpl&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" \></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&amp;layout=compact&amp;theme=tokyonight" \></th>
-  </tr>
-</thead>
+<table style="undefined;table-layout: fixed; width: 1126px">
+<colgroup>
+<col style="width: 616px">
+<col style="width: 510px">
+</colgroup>
 <tbody>
   <tr>
-    <td colspan="2"><img src="http://github-readme-streak-stats.herokuapp.com?user=chandlerpl&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" \></td>
+    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api?username=chandlerpl&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="Image" width="1110" height="437"></td>
+  </tr>
+  <tr>
+    <td><img src="http://github-readme-streak-stats.herokuapp.com/?user=chandlerpl&theme=tokyonight&hide_border=true" alt="Image" width="599" height="236"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&layout=compact&theme=tokyonight&hide_border=true" alt="Image" width="500" height="236"><br></td>
   </tr>
 </tbody>
 </table>
