@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 ---
-<table cellspacing="0" cellpadding="0" style="border: none">
+<p><img width="99%" src="https://user-images.githubusercontent.com/1355437/138717144-a9ab1bd8-7ebf-4872-b15c-6be3d43ddc67.png" /></p>
+
+<table border="none" cellspacing="0" cellpadding="0">
 <tbody>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&layout=compact&theme=tokyonight&hide_border=true" alt="Image" height="236"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&layout=compact&theme=tokyonight&hide_border=true" alt="Image" height="236"></td>
-  </tr>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Image" height="236" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Image" height="236" /></td>
+</tr>
 </tbody>
 </table>
 
