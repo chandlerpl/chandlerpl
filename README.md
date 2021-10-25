@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-<table cellspacing="0" cellpadding="0" style="border: none;">
+<table cellspacing="0" cellpadding="0" style="border: none">
 <tbody>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerpl&layout=compact&theme=tokyonight&hide_border=true" alt="Image" height="236"></td>
