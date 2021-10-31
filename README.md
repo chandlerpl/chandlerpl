@@ -2,6 +2,7 @@
 <div align=center>
   <a href="https://www.linkedin.com/in/chandlerpopelewis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/ChandlerCeras"><img src="https://img.shields.io/twitter/follow/ChandlerCeras?style=for-the-badge&color=09f&labelColor=09f&logoColor=fff&logo=twitter&label=@ChandlerCeras" alt="Twitter"/></a>
+  <a href="https://chandlerpope.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io"/></a>
   <img src="https://komarev.com/ghpvc/?username=chandlerpl" alt="Page Views"/>
 </div>
 
